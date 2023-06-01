@@ -1,0 +1,51 @@
+img {
+    display: block;
+    margin: auto;
+}
+
+h1, h3{
+    color: red;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    display: inline;
+}
+
+p{
+    display: inline;
+    font-family: Arial;
+    font-size: 11pt;
+}
+
+.paragraph-warpper{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.email{
+    color: black;
+}
+
+.links {
+    color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: red;
+}

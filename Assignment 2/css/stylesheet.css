@@ -1,0 +1,49 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: orange;
+    text-align: right;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+p {
+    color: blue;
+}
+
+hr {
+    height: 8px;
+    width: 80%;
+    background-color: green;
+    border: none;
+    margin: 0 auto;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16pt;
+    letter-spacing: 2px;
+    line-height: 2;
+}
+
+.clickedLink:visited {
+    color: red;
+    font-size: 14pt;
+}
+
+.clickedLink:hover {
+    color: pink;
+}
+
+#firstParagraph {
+    background-color: silver;
+}
+
+p.secondParagraph {
+    background-color: yellow;
+}
